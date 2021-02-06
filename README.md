@@ -1,4 +1,4 @@
 # todo_vanillla_js
 
 
-### Simple todo app with vanilla js
+### Simple frontend todo app with vanilla js
